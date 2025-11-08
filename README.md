@@ -1,4 +1,4 @@
-# luxowner.github.io
+# drthesmos.github.io
 
 A personal website based on the Jekyll-Emerald theme.
 
